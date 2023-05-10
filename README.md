@@ -4,7 +4,7 @@ Em programação de computadores, um array é uma estrutura de dados que armazen
 
 # Manipulação de Métodos e Propriedades em array.
 
-## listar em ordem alfabética 
+## Listar em ordem alfabética 
 
 let animais = [“gato”, “cachorro”, “elefante”, “abelha”, “sapo”];
 Animais.sort();
